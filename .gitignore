@@ -1,0 +1,38 @@
+# Build output
+**/bin/
+**/obj/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Local databases are generated state
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Zip files should be ignored
+*.zip
+
+# Runtime logs
+Logs/*.json
+Logs/*.log
+src/DiscussionBoard/Logs/*.json
+src/DiscussionBoard/Logs/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test execution artifacts
+**/TestResults/
+**/TestResults/**
+
+# Coverage reports
+**/coverage/
+**/coverage.cobertura.xml
+**/*.coverage
+**/*.coveragexml

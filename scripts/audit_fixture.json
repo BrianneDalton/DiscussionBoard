@@ -1,0 +1,1 @@
+{"projects": [{"frameworks": [{"topLevelPackages": [{"id": "a", "resolvedVersion": "1", "vulnerabilities": [{"severity": "High", "advisoryurl": "abc"}]}], "transitivePackages": []}]}, {"frameworks": [{"topLevelPackages": [], "transitivePackages": [{"id": "a", "resolvedVersion": "1", "vulnerabilities": [{"severity": "High", "advisoryurl": "abc"}]}]}]}]}

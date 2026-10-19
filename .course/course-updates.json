@@ -1,0 +1,43 @@
+{
+  "course": "ASP.NET Core",
+  "project": "DiscussionBoard",
+  "remote": "upstream",
+  "lessons": [
+    {
+      "number": 1,
+      "name": "Database Integration and Initial UI",
+      "tag": "database-ui",
+      "marker": ".course/applied/database-ui"
+    },
+    {
+      "number": 2,
+      "name": "Authentication",
+      "tag": "lesson-02-update",
+      "marker": ".course/applied/lesson-02"
+    },
+    {
+      "number": 3,
+      "name": "Authorization",
+      "tag": "lesson-03-update",
+      "marker": ".course/applied/lesson-03"
+    },
+	{
+	  "number": 4,
+	  "name": "Application Security",
+	  "tag": "lesson-04-update",
+	  "marker": ".course/applied/lesson-04"
+	},
+	{
+	  "number": 5,
+	  "name": "Configuration and Publishing",
+	  "tag": "lesson-05-update",
+	  "marker": ".course/applied/lesson-05"
+	},
+	{
+	  "number": 6,
+	  "name": "Application Deployment",
+	  "tag": "lesson-06-update",
+	  "marker": ".course/applied/lesson-06"
+	}
+  ]
+}
