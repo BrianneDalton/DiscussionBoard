@@ -12,32 +12,32 @@
     {
       "number": 2,
       "name": "Authentication",
-      "tag": "lesson-02-update",
-      "marker": ".course/applied/lesson-02"
+      "tag": "authentication",
+      "marker": ".course/applied/authentication"
     },
     {
       "number": 3,
       "name": "Authorization",
-      "tag": "lesson-03-update",
-      "marker": ".course/applied/lesson-03"
+      "tag": "authorization",
+      "marker": ".course/applied/authorization"
     },
 	{
 	  "number": 4,
 	  "name": "Application Security",
-	  "tag": "lesson-04-update",
-	  "marker": ".course/applied/lesson-04"
+	  "tag": "application-security",
+	  "marker": ".course/applied/application-security"
 	},
 	{
 	  "number": 5,
 	  "name": "Configuration and Publishing",
-	  "tag": "lesson-05-update",
-	  "marker": ".course/applied/lesson-05"
+	  "tag": "configuration-publishing",
+	  "marker": ".course/applied/configuration-publishing"
 	},
 	{
 	  "number": 6,
 	  "name": "Application Deployment",
-	  "tag": "lesson-06-update",
-	  "marker": ".course/applied/lesson-06"
+	  "tag": "deployment",
+	  "marker": ".course/applied/deployment"
 	}
   ]
 }
