@@ -1,4 +1,4 @@
-# Discussion Board Starter Project
+# Discussion Board Starter Project 
 
 This repository provides the starter project for the **Discussion Board** ASP.NET Core assignment.
 
